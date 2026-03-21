@@ -119,7 +119,7 @@ app.post("/", async(req, res) => {
         }
 
 
-        twiml.message(compressedData);
+        twiml.message("WX:" + compressedData);
         //twiml.message(openWttrApi);
     } else {
         twiml.message("Invalid Format");
