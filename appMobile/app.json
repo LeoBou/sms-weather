@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "WeatherApp",
+    "slug": "WeatherApp",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.leobou.WeatherApp",
+      "permissions": []
+    },
+    "extra": {
+      "eas": {
+        "projectId": "004779e4-1f90-458a-8bf7-62cfeab6f3f7"
+      }
+    }
+  }
+}
